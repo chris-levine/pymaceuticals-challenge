@@ -1,1 +1,2 @@
 # pymaceuticals-challenge
+This is my submission for the pymaceuticals challenge. The goal of this assignment was to manipulate pandas dataframes and use both pandas and matplotlib to graph the data. Furthmore, there were also many statistic measures that were used in order to find patterns in the data and calculate certain parameters. 
